@@ -3,8 +3,8 @@
 
     "DeckBy": "ABBABAABBAABABBA",
 
-    "Truths": ["Truth test 1", "Truth test 2", "<player> truth"],
-    "Player_Truths": ["Player truth 1", "Player truth 2", "<player> player truth"],
-    "Dares": ["Dare test A", "Dare test B", "<player> dare"],
-    "Player_Dares": ["Player dare A", "Player dare B", "<player> player dare"]
+    "Truths": ["Truth test 1", "Truth test 2"],
+    "Player_Truths": ["<player> truth 1", "<player> truth 2"],
+    "Dares": ["Dare test A", "Dare test B"],
+    "Player_Dares": ["<player> dare A", "<player> dare B"]
 }
