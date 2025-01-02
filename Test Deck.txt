@@ -1,0 +1,10 @@
+{
+    "DeckName": "Test Deck ABBA",
+
+    "DeckBy": "ABBABAABBAABABBA",
+
+    "Truths": ["Truth test 1", "Truth test 2"],
+    "Player_Truths": ["Player truth 1", "Player truth 2"],
+    "Dares": ["Dare test A", "Dare test B"],
+    "Player_Dares": ["Player dare A", "Player dare B"]
+}
